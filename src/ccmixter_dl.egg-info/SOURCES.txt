@@ -7,4 +7,5 @@ src/ccmixter_dl.egg-info/SOURCES.txt
 src/ccmixter_dl.egg-info/dependency_links.txt
 src/ccmixter_dl.egg-info/top_level.txt
 src/ccmixterdl/__init__.py
-src/ccmixterdl/main.py
+src/ccmixterdl/ccmixterdl.py
+src/ccmixterdl/from ccmixterdl import main.py
